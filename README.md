@@ -1,5 +1,7 @@
 # DjValidator	-	jQuery form validation plugin
 
+
+Demo : https://www.jqueryscript.net/demo/HTML5-Form-Validation-DjValidator/
 Version 1.1.1
 
 THE SIMPLEST WEB FORMS VALIDATION JQUERY PLUGIN!
